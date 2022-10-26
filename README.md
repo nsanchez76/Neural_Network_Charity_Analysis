@@ -29,7 +29,7 @@ The variables that did not add value to the model, and were dropped are:
 
 ### Compiling, Training, and Evaluating the Model
 
-Model_Def
+![Model_Def](https://user-images.githubusercontent.com/106849689/197922170-a6f45bd6-e602-407f-90cf-455d05f2da42.jpg)
 
 Three hidden layers were chosen for the model.
 - Hidden Layer 1 had 80 neurons, and used the "relu" activation function.
